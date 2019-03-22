@@ -1,0 +1,3 @@
+<resources>
+    <dimen name="dialog_radius">15dp</dimen>
+</resources>

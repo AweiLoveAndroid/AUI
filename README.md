@@ -22,7 +22,7 @@ AUI是一个快速开发UI组件集合，帮助大家快速实现常用UI效果�
 * ios里面的工具栏(Tool bar)  这个适用于浏览器下方的那个导航
 * ios里面的搜索栏(Search bar)  这个在安卓里面需要自定义
 * ios里面的活动视图（Activity view）  相当于安卓的popwindow
-* ios里面的提醒视图(Alert view)  相当于安卓的Diaolg，这个是居中的
+* ios里面的提醒视图([Alert view](docs/AlertView.md))  相当于安卓的Diaolg，这个是居中的
 * ios里面的编辑菜单（Edit menu）相当于安卓的popwindow
 * ios里面的弹出视图（Popovers）相当于安卓的popwindow
 * ios里面的按钮，按钮开关，这个需要自定义一个View，支持圆角的ImageView
@@ -53,13 +53,13 @@ AUI是一个快速开发UI组件集合，帮助大家快速实现常用UI效果�
 
 
 	Copyright [awei] [AWeiLoveAndroid]
-
+	
 	   Licensed under the Apache License, Version 2.0 (the "License");
 	   you may not use this file except in compliance with the License.
 	   You may obtain a copy of the License at
-
+	
 	       http://www.apache.org/licenses/LICENSE-2.0
-
+	
 	   Unless required by applicable law or agreed to in writing, software
 	   distributed under the License is distributed on an "AS IS" BASIS,
 	   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
